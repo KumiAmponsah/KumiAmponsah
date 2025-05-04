@@ -1,8 +1,15 @@
-# Hi, I'm Cyprian Kumi Amponsah 👋
-I'm interested in all things react⚛️
+# 👋 Hi, I'm Cyprian Kumi Amponsah
 
-🔭 I’m currently working on **cool projects**  
-🌱 Learning **Python & AI** 
+**Full-Stack Developer | AI Explorer**  
+Building web/mobile apps with React ⚛️ and diving deep into Python for AI/ML.
 
-📫 How to reach me: **cyprianamponsah36@gmail.com**  
+✨ **Current Focus:**  
+- Crafting scalable React/Node applications  
+- Training ML models with Python  
+- Contributing to open source  
 
+🛠 **Stack:** React, Python, Node.js
+
+📫 **Reach out:** [Email](mailto:cyprianamponsah36@gmail.com) | [LinkedIn](https://www.linkedin.com/in/cyprian-amponsah-16034b1a5/)
+
+🌟 **Fun Fact:** I automate daily tasks just for fun!  
