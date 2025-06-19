@@ -8,7 +8,7 @@ Building web/mobile apps with React ⚛️ and diving deep into Python for AI/ML
 - Training ML models with Python  
 - Contributing to open source  
 
-🛠 **Stack:** React, Python, Node.js
+🛠 **Stack:** React, Python, Node.js, Spring boot
 
 📫 **Reach out:** [Email](mailto:cyprianamponsah36@gmail.com) | [LinkedIn](https://www.linkedin.com/in/cyprian-amponsah-16034b1a5/)
 
